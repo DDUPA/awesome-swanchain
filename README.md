@@ -48,6 +48,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [Jira](./Jira)
 - [code-server](code-server)
 - [Uma Protocol](uma-protocol)
+- [Hashicorp Vault](hashicorp-vault)
 
 
 ### DeFi
@@ -56,4 +57,3 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 
 ### Blogging
 - [Wiki.js](./Wiki)
-
